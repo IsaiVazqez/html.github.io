@@ -24,11 +24,12 @@
     position: absolute;
     top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-60%, -50%);
     border-radius: 300px;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
+    width: auto;
 }
 
     
